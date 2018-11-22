@@ -1,0 +1,23 @@
+p {
+    font-family: Arial Unicode MS, sans-serif;
+    font-size:11pt;
+    color: #000000;
+}
+body{
+    background: url(back.jpg) no-repeat fixed center;
+}
+img{
+    width: 200px;
+    height: 250px;
+}
+h3 {
+    font-family: Bell MT;
+    font-size: 20pt;
+    color: rgb(155, 50, 60);
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
