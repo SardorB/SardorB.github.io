@@ -1,14 +1,16 @@
 p {
     font-family: Arial Unicode MS, sans-serif;
-    font-size:11pt;
+    font-size:18px;
     color: #000000;
 }
-body{
+body {
     background: url(back.jpg) no-repeat fixed center;
+
 }
+
 img{
-    width: 200px;
-    height: 250px;
+    width: 400px;
+    height: 450px;
 }
 h3 {
     font-family: Bell MT;
@@ -19,5 +21,17 @@ h3 {
 
 h1 {
     text-align: center;
+}
+h3{
+    font-family: Calibri;
+    font-size: 30px;
+    color: red;
+}
+h4{
+    font-size: 25px;
+    color: blue;
+}
+.di{
+    font-size: 20px;
 }
 
